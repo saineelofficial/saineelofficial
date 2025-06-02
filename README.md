@@ -1,6 +1,6 @@
 ## Glad you’re here — let’s get started 👋
 
-💻 **Full-Stack Developer** | ☁️ **Cloud-Native Builder** | 🤖 **AI Tools Explorer**
+💻 **Full-Stack Developer** | ☁️ **Cloud-Native Builder** | 🤖 **AI Enthusiast**
 
 I'm <Strong><i>Sai Neelkanth Chary</i></Strong>, a full-stack software engineer passionate about building scalable, cloud-native apps that solve real problems, and I thrive at the intersection of clean code, user-focused design, and high-performance systems.<br><br>
 
