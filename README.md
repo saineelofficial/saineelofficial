@@ -12,7 +12,7 @@ I'm <Strong><i>Sai Neelkanth Chary</i></Strong>, a full-stack software engineer 
 <li><Strong>Version Control & Tools:</Strong> Git, GitHub, Jira, Confluence<br><br>
 
 ## 💡 Learning & Exploring 
-<li>Preparing for the **AWS Solutions Architect** certification<br>
+<li>Preparing for the AWS Solutions Architect certification<br>
 <li>Experimenting with emerging AI tools like Lovable.dev, Cursor, Trae, and NotebookLM by Google<br>
 <li>Google Jules for intelligent developer workflows<br>
 <li>Actively looking to contribute to open-source projects and collaborate on impactful full-stack/cloud-native builds<br><br>
