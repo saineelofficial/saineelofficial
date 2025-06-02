@@ -1,4 +1,4 @@
-## Hi there 👋
+## Glad you’re here — let’s get started 👋
 
 I'm <Strong><i>Sai Neelkanth Chary</i></Strong>, a full-stack software engineer passionate about building scalable, cloud-native apps that solve real problems, and I thrive at the intersection of clean code, user-focused design, and high-performance systems.<br><br>
 
@@ -17,7 +17,7 @@ I'm <Strong><i>Sai Neelkanth Chary</i></Strong>, a full-stack software engineer 
 
 ---
 
-📚 I earned my Master’s in Computer Science from The George Washington University and have consistently merged classroom theory with real-world application. Whether it’s building component libraries, automating CI/CD, or fine-tuning system performance, I’m always focused on impact.<br><br>
+📚 I earned my <Strong><i>Master’s in Computer Science</i></Strong> from <Strong><i>The George Washington University</i></Strong> and have consistently merged classroom theory with real-world application. Whether it’s building component libraries, automating CI/CD, or fine-tuning system performance, I’m always focused on impact.<br><br>
 Let’s connect — I’m always up for building, learning, and collaborating!
 
 ---
