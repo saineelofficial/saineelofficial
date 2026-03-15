@@ -5,7 +5,7 @@
 <rect x="0" y="35" width="790" height="1" fill="#1e2733"/>
 <text x="14" y="13" font-family="'Courier New',monospace" font-size="8" fill="#39d353" letter-spacing="2">SCORE</text>
 <text id="scoreTxt" x="14" y="28" font-family="'Courier New',monospace" font-size="15" fill="#fff" font-weight="bold">
-  <animate attributeName="textLength" values="0;50;110;220;300;360;430;490;510;850;890;1010;1060;1070;1110;1130;1130" keyTimes="0;0.0565;0.1159;0.1754;0.2349;0.2943;0.3538;0.4132;0.4727;0.5322;0.5916;0.6511;0.7105;0.7700;0.8295;0.8889;1" dur="18.5s" repeatCount="indefinite" calcMode="discrete"/>0
+  <animate attributeName="textLength" values="0;50;110;220;300;360;430;490;510;850;890;1010;1060;1070;1110;1140;1140" keyTimes="0;0.0565;0.1159;0.1754;0.2349;0.2943;0.3538;0.4132;0.4727;0.5322;0.5916;0.6511;0.7105;0.7700;0.8295;0.8889;1" dur="18.5s" repeatCount="indefinite" calcMode="discrete"/>0
 </text>
 
 <text x="395" y="13" font-family="'Courier New',monospace" font-size="8" fill="#39d353" letter-spacing="2" text-anchor="middle">CONTRIBUTION INVADERS</text>
