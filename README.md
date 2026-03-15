@@ -35,7 +35,11 @@ Let’s connect — I’m always up for building, learning, and collaborating!
 ![](https://github-readme-stats.vercel.app/api?username=saineelofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
 ![](https://nirzak-streak-stats.vercel.app/?user=saineelofficial&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saineelofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&theme=transparent&show_icons=true)
+## 🎮 Contribution Invaders
 
+> My GitHub contributions — destroyed one by one by a spaceship. Resets & replays daily.
+
+![Contribution Invaders](https://raw.githubusercontent.com/saineelofficial/saineelofficial/main/dist/galaga.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saineelofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
