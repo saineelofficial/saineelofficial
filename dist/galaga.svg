@@ -573,8 +573,9 @@
 <rect x="752" y="50" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="752" y="64" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="752" y="78" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="752" y="92" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="752" y="106" width="11" height="11" rx="2" fill="#161b22"/>
-<rect x="752" y="120" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="752" y="134" width="11" height="11" rx="2" fill="#161b22"/>
 
 <rect id="c6_6" x="108" y="134" width="11" height="11" rx="2" fill="#006d32">
   <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.0479;0.0579;1" dur="21.8s" repeatCount="indefinite"/>
@@ -644,7 +645,7 @@
   <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8553;0.8653;1" dur="21.8s" repeatCount="indefinite"/>
 </rect>
 
-<rect id="c52_3" x="752" y="92" width="11" height="11" rx="2" fill="#0e4429">
+<rect id="c52_5" x="752" y="120" width="11" height="11" rx="2" fill="#0e4429">
   <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9057;0.9157;1" dur="21.8s" repeatCount="indefinite"/>
 </rect>
 
@@ -735,7 +736,7 @@
 
 <rect x="756.5" y="168" width="2" height="10" rx="1" fill="#00ff88">
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9007;0.9017;0.9057;0.9067;1" dur="21.8s" repeatCount="indefinite"/>
-  <animate attributeName="y" values="168;168;103" keyTimes="0;0.9007;0.9057" dur="21.8s" repeatCount="indefinite"/>
+  <animate attributeName="y" values="168;168;131" keyTimes="0;0.9007;0.9057" dur="21.8s" repeatCount="indefinite"/>
 </rect>
 
 <circle cx="113.5" cy="139.5" r="0" fill="none" stroke="#006d32" stroke-width="1.5">
@@ -891,11 +892,11 @@
   <animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.8553;0.8653;0.9053;1" dur="21.8s" repeatCount="indefinite"/>
 </circle>
 
-<circle cx="757.5" cy="97.5" r="0" fill="none" stroke="#0e4429" stroke-width="1.5">
+<circle cx="757.5" cy="125.5" r="0" fill="none" stroke="#0e4429" stroke-width="1.5">
   <animate attributeName="r" values="0;0;0;8;12;0" keyTimes="0;0.9057;0.9067;0.9257;0.9557;0.9757" dur="21.8s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9057;0.9067;0.9357;0.9557;1" dur="21.8s" repeatCount="indefinite"/>
 </circle>
-<circle cx="757.5" cy="97.5" r="0" fill="#0e4429" opacity="0.5">
+<circle cx="757.5" cy="125.5" r="0" fill="#0e4429" opacity="0.5">
   <animate attributeName="r" values="0;0;4;0" keyTimes="0;0.9057;0.9257;0.9557" dur="21.8s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;0;0.5;0;0" keyTimes="0;0.9057;0.9157;0.9557;1" dur="21.8s" repeatCount="indefinite"/>
 </circle>
