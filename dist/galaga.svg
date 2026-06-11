@@ -580,6 +580,7 @@
 <rect x="752" y="64" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="752" y="78" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="752" y="92" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="752" y="106" width="11" height="11" rx="2" fill="#161b22"/>
 
 <rect id="c0_4" x="24" y="106" width="11" height="11" rx="2" fill="#0e4429">
   <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.0741;0.0841;1" dur="14.100000000000001s" repeatCount="indefinite"/>
